@@ -1,0 +1,121 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(248, 247, 253));
+    margin: 0%;
+}
+.hello-section{
+
+}
+.half-width{
+    width: 35%;
+    float: left;
+    padding: 2%;
+    margin-left: 10%;
+ 
+    margin-top: 20px;
+}
+img{
+    width: 75%;
+}
+#highlight{
+    color: tomato;
+}
+.button{
+    background-color: tomato;
+    background-image: linear-gradient(rgb(201, 176, 172),tomato);
+    padding:11px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: blanchedalmond;
+
+}
+.about-section{
+    height: 450px;
+    
+}
+.hello-section{
+    height: 450px;
+   
+}
+#working-section{
+    height: 600px;
+    
+    background-color: rgb(255, 254, 252);
+}
+.work-area{
+    height: 50%;
+    margin-top: 100px;
+}
+.work-content{
+    width: 23%;
+    height: 90%;
+    float: left;
+    margin: 25px;
+    padding: 15px;
+    background-image: linear-gradient( white,rgb(211, 206, 206) );
+    border-radius: 8px;
+    box-shadow:10px 10px 30px black;
+}
+#first-work-box{
+    margin-left: 120px;
+}
+span{
+    color: tomato;    
+}
+#h2{
+    text-align: center;
+    font-size: 35px;
+    
+}
+
+.inquiry-area{
+    height: 400px;
+   
+}
+.inquiry-box{
+    height: 70%;
+    width: 85%;
+    background-image: url(img/Group_33094_1.png);
+    background-size:cover;
+    margin-left: 90px;
+    margin-top: 45px;
+   
+}
+
+.content{
+    float: left;
+    margin-left: 60px;
+    margin-top: 70px;
+    color: white;
+    font-size: 40px;
+}
+#content{
+    float: left;
+    margin-left: 500px;
+    margin-top: 135px;
+}
+
+.personal-area{
+    margin: 1%;
+    height: 480px;
+    box-shadow: 10px 10px 30px black;
+    border-radius: 15px;
+    background-image: linear-gradient(rgb(236, 231, 231),rgb(218, 216, 216));
+}
+.personal-content-area{
+    margin-top: 3%;
+    height: 57%;
+    width: 70%;
+    float: left;
+    margin-left: 15%;
+    box-shadow: 10px 10px 30px black;
+    border-radius: 15px;
+    background-color: rgb(236, 236, 236);
+}
+
+.personal-content1{
+    width: 30%;
+    height: 35%;
+    float: left;
+    margin-left: 13%;
+}
